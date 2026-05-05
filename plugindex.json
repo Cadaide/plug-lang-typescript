@@ -1,0 +1,7 @@
+{
+  "@type": "cadaide:plugin",
+  "id": "app.cadaide.lang.typescript",
+  "name": "TypeScript language support",
+  "package": "https://github.com/Cadaide/plug-lang-typescript/archive/refs/heads/main.zip",
+  "entrypoint": "src/module.ts"
+}
